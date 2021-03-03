@@ -1,0 +1,67 @@
+body {
+  margin: 0;
+  padding: 0;
+  display: block;
+}
+.header{
+  background-color: black;
+  font-size: 25px;
+  font-weight: 600;
+  color: rgb(255, 255, 255);
+  padding: .5rem;
+  display: block;
+}
+
+.header_img{
+  padding-left: 1rem;
+}
+
+input{
+  display: block;
+  width: 98.5%;
+  padding: .6rem;
+}
+
+table{
+  padding-top: .7rem;
+}
+
+.poster_img{
+  width: 115px;
+  height: 170px;
+  border-radius: .7rem;
+}
+
+.title{
+font-size: 25px;
+font-weight: 600;
+}
+
+.view{
+font-size: 19px;
+font-weight: 600;
+}
+
+.movie_cont{
+  border-radius: 1rem solid black;
+}
+
+.movie_data{
+  padding-left: .5rem;
+}
+
+.oauth{
+  margin-right: 0;
+  display: flex;
+
+}
+
+.footer{
+  background-color: black;
+  color: rgb(255, 255, 255);
+  padding: .9rem;
+  bottom: 0;
+  display: block;
+  width: 98%;
+  height: 15px;
+}
